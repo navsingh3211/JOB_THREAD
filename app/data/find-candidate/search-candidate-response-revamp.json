@@ -1,0 +1,250 @@
+{
+    "success": true,
+    "error": null,
+    "data": {
+        "nbCandidates": 5,
+        "page": 1,
+        "nbPages": 2,
+        "candidates": [
+            {
+                "seekerId": "e58cc5ca94270acaceed13bc82dfedf7",
+                "refCode": "SKID230400001107",
+                "img": null,
+                "hasResume": 1,
+                "is_perfectmatch": 1,
+                "candidateName": "Unlock To View Candidate Name",
+                "contact": null,
+                "locked": 1,
+                "lockedMessage": "Unlock To View Candidate Name",
+                "highestEducation": null,
+                "educationSpecialization": null,
+                "maxExperience": "7 Years",
+                "lastEdited": "2023-04-14 13:11:29",
+                "lastActive": "2023-04-17 13:25:54",
+                "isActedUpon": 0,
+                "actedUponMessage": null,
+                "isFresher": null,
+                "isSavable": 1,
+                "hasInvited": null,
+                "candidateCity": null,
+                "hasSaved": null,
+                "hasApplied": null,
+                "hasShortlisted": null,
+                "hasOffered": null,
+                "hasOfferAccepted": null,
+                "hasOfferRejected": null,
+                "selectedDate": null,
+                "hasSelected": null,
+                "hasOnHold": null,
+                "profilePicUrl": null,
+                "skills": [],
+                "workExperience": {
+                    "numberOfActiveOrganizations": 0,
+                    "maxNoticePeriod": 0,
+                    "currentCompanies": [],
+                    "currentCompanyName": "",
+                    "currentJobTitle": ""
+                },                
+                "preference": {
+                    "preferenceId": 1567,
+                    "employmentType": "Full-time",
+                    "minimumSalary": 700000,
+                    "preferredLocations": [
+                        {
+                            "cityId": 316,
+                            "cityName": "Abhayapuri"
+                        },
+                        {
+                            "cityId": 5312,
+                            "cityName": "24 Parganas (n)"
+                        },
+                        {
+                            "cityId": 5583,
+                            "cityName": "Kolkata"
+                        }
+                    ],
+                    "percentMatch": 74
+                },
+                "REJECT_flag": 0
+            }
+        ],
+        "clusters": {
+            "candidateTypes": [
+                {
+                    "id": 0,
+                    "count": 17,
+                    "label": "All"
+                },
+                {
+                    "id": 1,
+                    "count": 17,
+                    "label": "Fresh"
+                },
+                {
+                    "id": 2,
+                    "count": 0,
+                    "label": "Acted upon"
+                }
+            ],
+            "cities": [
+                {
+                    "id": 5583,
+                    "count": 15,
+                    "label": "Kolkata"
+                },
+                {
+                    "id": 706,
+                    "count": 5,
+                    "label": "Delhi"
+                }
+            ],
+            "educations": [
+                {
+                    "id": 1,
+                    "count": 17,
+                    "label": "Class 10th"
+                },
+                {
+                    "id": 2,
+                    "count": 17,
+                    "label": "Class 12th"
+                }
+            ],
+            "employmentTypes": [
+                {
+                    "id": 1,
+                    "count": 15,
+                    "label": "Full-time"
+                },
+                {
+                    "id": 8,
+                    "count": 2,
+                    "label": "Leave Vacancy"
+                }
+            ],
+            "experiences": [
+                {
+                    "id": 2,
+                    "count": 1,
+                    "label": "2 Years"
+                },
+                {
+                    "id": 5,
+                    "count": 14,
+                    "label": "5 Years"
+                }
+            ],
+            "lastActives": [
+                {
+                    "id": 365,
+                    "count": 17,
+                    "label": "1 year"
+                },
+                {
+                    "id": 180,
+                    "count": 17,
+                    "label": "6 months"
+                }
+            ],
+            "noticePeriods": [
+                {
+                    "id": 1,
+                    "count": 14,
+                    "day": 0,
+                    "label": "Immediate Joiner"
+                },
+                {
+                    "id": 3,
+                    "count": 1,
+                    "day": 30,
+                    "label": "30 Days"
+                },
+                {
+                    "id": 4,
+                    "count": 2,
+                    "day": 45,
+                    "label": "45 Days"
+                }
+            ],
+            "priorities": [
+                {
+                    "id": "JTL",
+                    "label": "Job Title"
+                },
+                {
+                    "id": "LAY",
+                    "label": "Last Activity"
+                },
+                {
+                    "id": "EXP",
+                    "label": "Experience"
+                },
+                {
+                    "id": "NPD",
+                    "label": "Notice Period"
+                },
+                {
+                    "id": "SAL",
+                    "label": "Salary"
+                },
+                {
+                    "id": "SKL",
+                    "label": "Skills"
+                }
+            ],
+            "resume": [
+                {
+                    "id": 0,
+                    "label": "All"
+                },
+                {
+                    "id": 1,
+                    "label": "Available"
+                },
+                {
+                    "id": 2,
+                    "label": "Unavailable"
+                }
+            ],
+            "salary": [
+                {
+                    "range": {
+                        "min": 500000,
+                        "max": 9313316
+                    },
+                    "offset": {
+                        "min": 0.6,
+                        "max": 1.3
+                    },
+                    "unit": "Lakhs"
+                }
+            ],
+            "skills": [
+                {
+                    "id": 3016,
+                    "count": 3,
+                    "label": "Communication Skills"
+                },
+                {
+                    "id": 2003,
+                    "count": 2,
+                    "label": "Business Communication"
+                }
+            ],
+            "workExperiences": [
+                {
+                    "id": 0,
+                    "label": "All"
+                },
+                {
+                    "id": 1,
+                    "label": "Worked/Working in Same Role"
+                },
+                {
+                    "id": 2,
+                    "label": "Worked/Working in Similar Role"
+                }
+            ]
+        }
+    }
+}
